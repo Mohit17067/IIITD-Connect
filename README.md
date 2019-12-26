@@ -18,8 +18,7 @@ Users choose their respective category from Student, Faculty and Alumni and fill
 
 ### Feed
 **Post** is the main part of the application feed. All users can create post regarding any event/information. Date, time and venue can also be added in the post.<br>
-Viewers can add a post to their calendar to get reminders for events. Also they can show interest to a post by which the creator could get an idea about the number of people interested in the event.<br><br>
-
+Viewers can add a post to their calendar to get reminders for events. Also they can show interest to a post by which the creator could get an idea about the number of people interested in the event.<br>
 Feed is sorted based on the **tags** selected by users at the time of registration. More the number of tags matching with the post, higher would the priority of the post on the feed.
 
 ### Others
